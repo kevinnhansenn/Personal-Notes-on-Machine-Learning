@@ -1,4 +1,4 @@
 myName = "Kevin Hansen"
-print("This is " + myName)
-print("In this is the breakpoint")
-print("WIWW")
+myNumber = 36
+myArray = [100, 200, 300]
+print(myNumber)
