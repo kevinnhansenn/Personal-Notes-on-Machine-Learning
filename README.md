@@ -8,3 +8,5 @@ The information supposed to goes here
 ** I am trying to learn here **
 
 ## This is another section
+
+[a relative link](Folder1)
