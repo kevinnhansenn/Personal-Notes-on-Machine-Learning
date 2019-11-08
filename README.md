@@ -1,12 +1,19 @@
-# ML_DL_RL
-Personal notes on ML, DL and RL
+# My Machine Learning Personal Notes
 
-## This is the header 
+## 1 - Data Preprocessing
 
 The information supposed to goes here
 
-** I am trying to learn here **
+## 2 - Regression Algorithm
 
-## This is another section
+## 3 - Classification Algorithm 
 
-[a relative link](Folder1)
+## 4 - Clustering Algorithm 
+
+## 5 - Association Rule Learning
+
+## 6 - Reinforcement Learning
+
+## 7 - Natural Language Processing
+
+## 8 - Deep Learning
