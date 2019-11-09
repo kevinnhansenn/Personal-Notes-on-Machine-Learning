@@ -5,8 +5,10 @@
 ### *This is the brief explaination*
 
 -	Data Preprocessing Template ([Code](0DP/Code/data_preprocessing_template.py))
-- 	Categorize Data ([Detail](0DP)) ([Code](0DP/Code/categorical_data.py))
+-	Importing Dataset ([Detail](0DP)) ([Code](0DP/Code/missing_data.py))
 -	Missing Data ([Detail](0DP)) ([Code](0DP/Code/missing_data.py))
+- 	Categorical Data ([Detail](0DP)) ([Code](0DP/Code/categorical_data.py))
+
 
 
 ## 1. Regression Algorithm
@@ -14,7 +16,6 @@
 ### *This is the brief explaination*
 
 -	Regression Template ([Code](1RA/Code/regression_template.py))
-
 - 	Simple Linear Regression ([Detail](1RA)) ([Code](1RA/Code/.py))
 -	Multiple Linear Regression ([Detail](1RA)) ([Code](1RA/Code/.py))
 -	Polynomial Regression ([Detail](1RA)) ([Code](1RA/Code/.py))
