@@ -4,13 +4,15 @@
 
 ### *This is the brief explaination*
 
-- 	Preparing the CSV file ([Detail](0DP)) ([Code](0DP/Code))
+- 	Categorize Data ([Detail](0DP)) ([Code](0DP/Code/categorical_data.py))
+-	Missing Data ([Detail](0DP)) ([Code](0DP/Code/missing_data.py))
+-	Data Preprocessing Template ([Detail](0DP)) ([Code](0DP/Code/data_preprocessing_template.py))
 
 ## 1. Regression Algorithm
 
 ### *This is the brief explaination*
 
-- 	Simple Linear Regression ([Detail](Folder1)) ([Code](Folder1))
+- 	Simple Linear Regression ([Detail](1RA)) ([Code](1RA/Code))
 -	Multiple Linear Regression ([Detail](Folder1)) ([Code](Folder1))
 -	Polynomial Regression ([Detail](Folder1)) ([Code](Folder1))
 -	Support Vector Regression ([Detail](Folder1)) ([Code](Folder1))
