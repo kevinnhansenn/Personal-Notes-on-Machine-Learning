@@ -1,12 +1,12 @@
 # My Personal Notes
 
-## 1.  Data Preprocessing 
+## 0.  Data Preprocessing 
 
 ### *This is the brief explaination*
 
-- 	Preparing the CSV file ([Detail](1DP)) ([Code](1DP))
+- 	Preparing the CSV file ([Detail](0DP)) ([Code](0DP/Code))
 
-## 2. Regression Algorithm
+## 1. Regression Algorithm
 
 ### *This is the brief explaination*
 
@@ -19,7 +19,7 @@
 - 	Performance Evaluation ([Detail](Folder1)) ([Code](Folder1))
 
 
-## 3. Classification Algorithm 
+## 2. Classification Algorithm 
 
 ### *This is the brief explaination*
 
@@ -32,32 +32,32 @@
 -	Random Forest Classification ([Detail](Folder1)) ([Code](Folder1))
 -	Performance Evaluation ([Detail](Folder1)) ([Code](Folder1))
 
-## 4. Clustering Algorithm 
+## 3. Clustering Algorithm 
 
 ### *This is the brief explaination*
 
 -	K-means ([Detail](Folder1)) ([Code](Folder1))
 -	Hierarchal ([Detail](Folder1)) ([Code](Folder1))
 
-## 5. Association Rule Learning
+## 4. Association Rule Learning
 
 ### *This is the brief explaination*
 
 -	Apriori ([Detail](Folder1)) ([Code](Folder1))
 -	Eclat ([Detail](Folder1)) ([Code](Folder1))
 
-## 6. Reinforcement Learning
+## 5. Reinforcement Learning
 
 ### *This is the brief explaination*
 
 -	Upper Confidence Bound (UCB) ([Detail](Folder1)) ([Code](Folder1))
 -	Thompson Sampling ([Detail](Folder1)) ([Code](Folder1))
 
-## 7. Natural Language Processing
+## 6. Natural Language Processing
 
 ### *This is the brief explaination*
 
-## 8. Deep Learning
+## 7. Deep Learning
 
 ### *This is the brief explaination*
 
@@ -72,7 +72,7 @@
 	- Deep Convolution Q-Learning ([Detail](Folder1)) ([Code](Folder1))
 	- Asynchronous Actor Critic Action ([Detail](Folder1)) ([Code](Folder1))
 
-## 9. Dimension Reduction 
+## 8. Dimension Reduction 
 
 ### *This is the brief explaination*
 
@@ -80,7 +80,7 @@
 -	Kernel PCA ([Detail](Folder1)) ([Code](Folder1))
 -	LDA  ([Detail](Folder1)) ([Code](Folder1))
 
-## 10. Model Selection and Boosting
+## 9. Model Selection and Boosting
 
 ### *This is the brief explaination*
 
