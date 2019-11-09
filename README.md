@@ -4,21 +4,23 @@
 
 ### *This is the brief explaination*
 
+-	Data Preprocessing Template ([Code](0DP/Code/data_preprocessing_template.py))
 - 	Categorize Data ([Detail](0DP)) ([Code](0DP/Code/categorical_data.py))
 -	Missing Data ([Detail](0DP)) ([Code](0DP/Code/missing_data.py))
--	Data Preprocessing Template ([Detail](0DP)) ([Code](0DP/Code/data_preprocessing_template.py))
+
 
 ## 1. Regression Algorithm
 
 ### *This is the brief explaination*
 
-- 	Simple Linear Regression ([Detail](1RA)) ([Code](1RA/Code))
--	Multiple Linear Regression ([Detail](Folder1)) ([Code](Folder1))
--	Polynomial Regression ([Detail](Folder1)) ([Code](Folder1))
--	Support Vector Regression ([Detail](Folder1)) ([Code](Folder1))
--	Decision Tree Regression ([Detail](Folder1)) ([Code](Folder1))
--	Random Forest Regression ([Detail](Folder1)) ([Code](Folder1))
-- 	Performance Evaluation ([Detail](Folder1)) ([Code](Folder1))
+-	Regression Template ([Code](1RA/Code/regression_template.py))
+
+- 	Simple Linear Regression ([Detail](1RA)) ([Code](1RA/Code/.py))
+-	Multiple Linear Regression ([Detail](1RA)) ([Code](1RA/Code/.py))
+-	Polynomial Regression ([Detail](1RA)) ([Code](1RA/Code/.py))
+-	Support Vector Regression ([Detail](1RA)) ([Code](1RA/Code/.py))
+-	Decision Tree Regression ([Detail](1RA)) ([Code](1RA/Code/.py))
+-	Random Forest Regression ([Detail](1RA)) ([Code](1RA/Code/.py))
 
 
 ## 2. Classification Algorithm 
