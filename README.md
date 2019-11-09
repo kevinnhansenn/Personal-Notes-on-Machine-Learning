@@ -1,94 +1,74 @@
 # My Personal Notes
 
-## 0.  Data Preprocessing 
-
-### *This is the brief explaination*
+## 0.  Data Preprocessing ([Detail](0DP))
 
 -	Data Preprocessing Template ([Code](0DP/Code/data_preprocessing_template.py))
--	Importing Dataset ([Detail](0DP)) ([Code](0DP/Code/missing_data.py))
--	Missing Data ([Detail](0DP)) ([Code](0DP/Code/missing_data.py))
-- 	Categorical Data ([Detail](0DP)) ([Code](0DP/Code/categorical_data.py))
+-	Importing Dataset ([Code](0DP/Code/missing_data.py))
+-	Missing Data ([Code](0DP/Code/missing_data.py))
+- 	Categorical Data ([Code](0DP/Code/categorical_data.py))
 
 
 
-## 1. Regression Algorithm
-
-### *This is the brief explaination*
+## 1. Regression Algorithm ([Detail](1RA))
 
 -	Regression Template ([Code](1RA/Code/regression_template.py))
-- 	Simple Linear Regression ([Detail](1RA)) ([Code](1RA/Code/.py))
--	Multiple Linear Regression ([Detail](1RA)) ([Code](1RA/Code/.py))
--	Polynomial Regression ([Detail](1RA)) ([Code](1RA/Code/.py))
--	Support Vector Regression ([Detail](1RA)) ([Code](1RA/Code/.py))
--	Decision Tree Regression ([Detail](1RA)) ([Code](1RA/Code/.py))
--	Random Forest Regression ([Detail](1RA)) ([Code](1RA/Code/.py))
+- 	Simple Linear Regression ([Code](1RA/Code/simple_linear_regression.py))
+-	Multiple Linear Regression ([Code](1RA/Code/multiple_linear_regression.py))
+-	Polynomial Regression ([Code](1RA/Code/polynomial_regression.py))
+-	Support Vector Regression ([Code](1RA/Code/svr.py))
+-	Decision Tree Regression ([Code](1RA/Code/decision_tree_regression.py))
+-	Random Forest Regression ([Code](1RA/Code/random_forest_regression.py))
 
 
-## 2. Classification Algorithm 
+## 2. Classification Algorithm ([Detail](2CA))
 
-### *This is the brief explaination*
-
--	Logistic Regression ([Detail](Folder1)) ([Code](Folder1))
--	KNN ([Detail](Folder1)) ([Code](Folder1))
--	SVM ([Detail](Folder1)) ([Code](Folder1))
--	Kernel SVM ([Detail](Folder1)) ([Code](Folder1))
--	Naïve Bayes ([Detail](Folder1)) ([Code](Folder1))
--	Decision Tree Classification ([Detail](Folder1)) ([Code](Folder1))
--	Random Forest Classification ([Detail](Folder1)) ([Code](Folder1))
--	Performance Evaluation ([Detail](Folder1)) ([Code](Folder1))
+-	Logistic Regression ([Code](2CA/Code/.py))
+-	KNN ([Code](2CA/Code/.py))
+-	SVM ([Code](2CA/Code/.py))
+-	Kernel SVM ([Code](2CA/Code/.py))
+-	Naïve Bayes ([Code](2CA/Code/.py))
+-	Decision Tree Classification ([Code](2CA/Code/.py))
+-	Random Forest Classification ([Code](2CA/Code/.py))
+-	Performance Evaluation ([Code](2CA/Code/.py))
 
 ## 3. Clustering Algorithm 
 
-### *This is the brief explaination*
-
--	K-means ([Detail](Folder1)) ([Code](Folder1))
--	Hierarchal ([Detail](Folder1)) ([Code](Folder1))
+-	K-means ([Code](Folder1))
+-	Hierarchal ([Code](Folder1))
 
 ## 4. Association Rule Learning
 
-### *This is the brief explaination*
-
--	Apriori ([Detail](Folder1)) ([Code](Folder1))
--	Eclat ([Detail](Folder1)) ([Code](Folder1))
+-	Apriori ([Code](Folder1))
+-	Eclat ([Code](Folder1))
 
 ## 5. Reinforcement Learning
 
-### *This is the brief explaination*
-
--	Upper Confidence Bound (UCB) ([Detail](Folder1)) ([Code](Folder1))
--	Thompson Sampling ([Detail](Folder1)) ([Code](Folder1))
+-	Upper Confidence Bound (UCB) ([Code](Folder1))
+-	Thompson Sampling ([Code](Folder1))
 
 ## 6. Natural Language Processing
 
-### *This is the brief explaination*
-
 ## 7. Deep Learning
 
-### *This is the brief explaination*
-
--	ANN ([Detail](Folder1)) ([Code](Folder1))
--	CNN ([Detail](Folder1)) ([Code](Folder1))
--	RNN ([Detail](Folder1)) ([Code](Folder1))
--	Self-Organizing Maps (SOM) ([Detail](Folder1)) ([Code](Folder1))
--	Boltzmann Machine ([Detail](Folder1)) ([Code](Folder1))
--	Auto Encoder ([Detail](Folder1)) ([Code](Folder1))
+-	ANN ([Code](Folder1))
+-	CNN ([Code](Folder1))
+-	RNN ([Code](Folder1))
+-	Self-Organizing Maps (SOM) ([Code](Folder1))
+-	Boltzmann Machine ([Code](Folder1))
+-	Auto Encoder ([Code](Folder1))
 -	Deep Reinforcement Learning
-	- Deep Q-Learning ([Detail](Folder1)) ([Code](Folder1))
-	- Deep Convolution Q-Learning ([Detail](Folder1)) ([Code](Folder1))
-	- Asynchronous Actor Critic Action ([Detail](Folder1)) ([Code](Folder1))
+	- Deep Q-Learning ([Code](Folder1))
+	- Deep Convolution Q-Learning ([Code](Folder1))
+	- Asynchronous Actor Critic Action ([Code](Folder1))
 
 ## 8. Dimension Reduction 
 
-### *This is the brief explaination*
-
--	PCA  ([Detail](Folder1)) ([Code](Folder1))
--	Kernel PCA ([Detail](Folder1)) ([Code](Folder1))
--	LDA  ([Detail](Folder1)) ([Code](Folder1))
+-	PCA  ([Code](Folder1))
+-	Kernel PCA ([Code](Folder1))
+-	LDA  ([Code](Folder1))
 
 ## 9. Model Selection and Boosting
 
-### *This is the brief explaination*
-
--	K-Fold Cross validation ([Detail](Folder1)) ([Code](Folder1))
--	Grid Search ([Detail](Folder1)) ([Code](Folder1))
-- 	XGBoost ([Detail](Folder1)) ([Code](Folder1))
+-	K-Fold Cross validation ([Code](Folder1))
+-	Grid Search ([Code](Folder1))
+- 	XGBoost ([Code](Folder1))
