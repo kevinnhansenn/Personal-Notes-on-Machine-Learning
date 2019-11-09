@@ -39,6 +39,8 @@ X[:, 1:3] = Imputer.transform(X[:, 1:3]) # need to be transformed again
 
 `LabelEncoder -> Transform non-numerical data into numerical data`
 
+![Dummy](/0DP/Assets/Dummy.png)
+
 ### There is a problem using LabelEncoder, the label given shouldnt be used for comparison
 -	Need to do Dummy Encoding
 	-	Need to import OneHotEncoder from sklearn.preprocessing
