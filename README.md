@@ -4,7 +4,7 @@
 
 ### *This is the brief explaination*
 
-- 	Preparing the CSV file ([Detail](Folder1)) ([Code](Folder1))
+- 	Preparing the CSV file ([Detail](1DP)) ([Code](1DP))
 
 ## 2. Regression Algorithm
 

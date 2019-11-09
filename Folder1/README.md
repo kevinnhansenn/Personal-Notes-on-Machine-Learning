@@ -1,3 +1,0 @@
-## This is inside the folder
-
-The information should goes here ...
