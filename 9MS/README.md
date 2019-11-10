@@ -2,8 +2,6 @@
 
 ##	K-Fold Cross validation
 
-![Cross](/9MS/Assets/Cross.png)
-
 ### Resampling procedure used to evaluate machine learning models on a limited data sample.
 
 `cross_val_score -> for k-fold cross validation`
@@ -16,8 +14,6 @@ accuracies.mean()
 accuracies.std()
 ```
 ##	Grid Search
-
-![Grid](/9MS/Assets/Grid.png)
 
 ### The process of performing hyper parameter tuning in order to determine the optimal values for a given model.
 

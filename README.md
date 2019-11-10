@@ -66,8 +66,7 @@
 -	Kernel PCA ([Code](8DR/Code/kernel_pca.py))
 -	LDA  ([Code](8DR/Code/lda.py))
 
-## 9. Model Selection and Boosting ([Detail](9MSB))
+## 9. Model Selection ([Detail](9MS))
 
--	K-Fold Cross validation ([Code](9MSB/Code/k_fold_cross_validation.py.py))
--	Grid Search ([Code](9MSB/Code/grid_search.py))
-- 	XGBoost ([Code](9MSB/Code/xg_boost.py))
+-	K-Fold Cross validation ([Code](9MS/Code/k_fold_cross_validation.py.py))
+-	Grid Search ([Code](9MS/Code/grid_search.py))
