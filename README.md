@@ -42,32 +42,32 @@
 
 ## 5. Reinforcement Learning ([Detail](5RL))
 
--	Upper Confidence Bound (UCB) ([Code](Folder1))
--	Thompson Sampling ([Code](Folder1))
+-	Upper Confidence Bound ([Code](5RL/Code/upper_confidence_interval.py))
+-	Thompson Sampling ([Code](5RL/Code/thompson_sampling.py))
 
-## 6. Natural Language Processing ([Detail](6NLP))
+## 6. Natural Language Processing ([Detail](6NLP)) ([Code](4ARL/Code/natural_language_processing.py))
 
 ## 7. Deep Learning ([Detail](7DL))
 
--	ANN ([Code](Folder1))
--	CNN ([Code](Folder1))
--	RNN ([Code](Folder1))
--	Self-Organizing Maps (SOM) ([Code](Folder1))
--	Boltzmann Machine ([Code](Folder1))
--	Auto Encoder ([Code](Folder1))
+-	ANN ([Code](7DL/Code/ann.py))
+-	CNN ([Code](7DL/Code/cnn.py))
+-	RNN 
+-	Self-Organizing Maps (SOM) 
+-	Boltzmann Machine 
+-	Auto Encoder 
 -	Deep Reinforcement Learning
-	- Deep Q-Learning ([Code](Folder1))
-	- Deep Convolution Q-Learning ([Code](Folder1))
-	- Asynchronous Actor Critic Action ([Code](Folder1))
+	- Deep Q-Learning 
+	- Deep Convolution Q-Learning 
+	- Asynchronous Actor Critic Action 
 
 ## 8. Dimension Reduction ([Detail](8DR))
 
--	PCA  ([Code](Folder1))
--	Kernel PCA ([Code](Folder1))
--	LDA  ([Code](Folder1))
+-	PCA  ([Code](8DR/Code/pda.py))
+-	Kernel PCA ([Code](8DR/Code/kernel_pca.py))
+-	LDA  ([Code](8DR/Code/lda.py))
 
 ## 9. Model Selection and Boosting ([Detail](9MSB))
 
--	K-Fold Cross validation ([Code](Folder1))
--	Grid Search ([Code](Folder1))
-- 	XGBoost ([Code](Folder1))
+-	K-Fold Cross validation ([Code](9MSB/Code/k_fold_cross_validation.py.py))
+-	Grid Search ([Code](9MSB/Code/grid_search.py))
+- 	XGBoost ([Code](9MSB/Code/xg_boost.py))
