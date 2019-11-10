@@ -22,33 +22,32 @@
 
 ## 2. Classification Algorithm ([Detail](2CA))
 
--	Logistic Regression ([Code](2CA/Code/.py))
--	KNN ([Code](2CA/Code/.py))
--	SVM ([Code](2CA/Code/.py))
--	Kernel SVM ([Code](2CA/Code/.py))
--	Naïve Bayes ([Code](2CA/Code/.py))
--	Decision Tree Classification ([Code](2CA/Code/.py))
--	Random Forest Classification ([Code](2CA/Code/.py))
--	Performance Evaluation ([Code](2CA/Code/.py))
+-	Logistic Regression ([Code](2CA/Code/logistic_regression.py))
+-	KNN ([Code](2CA/Code/knn.py))
+-	SVM ([Code](2CA/Code/svm.py))
+-	Kernel SVM ([Code](2CA/Code/kernel_svm.py))
+-	Naïve Bayes ([Code](2CA/Code/naive_bayes.py))
+-	Decision Tree Classification ([Code](2CA/Code/decision_tree_classification.py))
+-	Random Forest Classification ([Code](2CA/Code/random_forest_classification.py))
 
-## 3. Clustering Algorithm 
+## 3. Clustering Algorithm ([Detail](3CA))
 
--	K-means ([Code](Folder1))
--	Hierarchal ([Code](Folder1))
+-	K-means ([Code](3CA/Code/kmeans.py))
+-	Hierarchal ([Code](3CA/Code/hc.py))
 
-## 4. Association Rule Learning
+## 4. Association Rule Learning ([Detail](4ARL))
 
--	Apriori ([Code](Folder1))
--	Eclat ([Code](Folder1))
+-	Apriori ([Code](4ARL/Code/Apriori_Python))
+-	Eclat
 
-## 5. Reinforcement Learning
+## 5. Reinforcement Learning ([Detail](5RL))
 
 -	Upper Confidence Bound (UCB) ([Code](Folder1))
 -	Thompson Sampling ([Code](Folder1))
 
-## 6. Natural Language Processing
+## 6. Natural Language Processing ([Detail](6NLP))
 
-## 7. Deep Learning
+## 7. Deep Learning ([Detail](7DL))
 
 -	ANN ([Code](Folder1))
 -	CNN ([Code](Folder1))
@@ -61,13 +60,13 @@
 	- Deep Convolution Q-Learning ([Code](Folder1))
 	- Asynchronous Actor Critic Action ([Code](Folder1))
 
-## 8. Dimension Reduction 
+## 8. Dimension Reduction ([Detail](8DR))
 
 -	PCA  ([Code](Folder1))
 -	Kernel PCA ([Code](Folder1))
 -	LDA  ([Code](Folder1))
 
-## 9. Model Selection and Boosting
+## 9. Model Selection and Boosting ([Detail](9MSB))
 
 -	K-Fold Cross validation ([Code](Folder1))
 -	Grid Search ([Code](Folder1))
